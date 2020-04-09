@@ -1,0 +1,4 @@
+#Wed Apr 08 23:20:17 SGT 2020
+base.0=C\:\\Users\\WJ\\Desktop\\8 April 2020\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
